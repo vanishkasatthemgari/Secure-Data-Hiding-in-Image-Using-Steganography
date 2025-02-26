@@ -64,7 +64,7 @@ python stego.py
 This project is open-source and free to use. Feel free to modify and contribute!
 
 🔗 GitHub Repository
-🔗 Your GitHub Link Here
+🔗 https://github.com/vanishkasatthemgari/Secure-Data-Hiding-in-Image-Using-Steganography
 
 🤝 Contributing
 Want to improve this project? Follow these steps:
