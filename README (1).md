@@ -72,5 +72,4 @@ Want to improve this project? Follow these steps:
 4️⃣ **Push** to your branch and create a **Pull Request**.  
 
 ---
-
-💡 **Made with ❤️ by [Your Name]**  
+ 
